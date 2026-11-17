@@ -1,14 +1,14 @@
 # Little Fox
 
 ## 📖 Background
-A 2D pixel platformer demonstrating visual scripting workflows and retro level design.
+A 2D pixel platformer demonstrating Visual Scripting workflows and retro level design.
 
 ## 🎮 Functionality
-A physics-based character controller, enemy patrol AI and seamless scene transitions, all built with visual scripting.
+A physics-based character controller, enemy patrol AI and seamless scene transitions, all built with Visual Scripting.
 
 ## 🛠️ Tech Stack
 Engine: Unity
-Language: Unity visual scripting + C#
+Language: Unity Visual Scripting + C#
 
 ## 🚀 How to Run
 1. Clone the repository.
