@@ -1,9 +1,9 @@
 # Little Fox
 
-## Background
+## 📖 Background
 A 2D pixel platformer demonstrating visual scripting workflows and retro level design.
 
-## Functionality
+## 🎮 Functionality
 A physics-based character controller, enemy patrol AI and seamless scene transitions, all built with visual scripting.
 
 ## 🛠️ Tech Stack
